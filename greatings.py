@@ -1,0 +1,1 @@
+print("Hello!!! Today we will initialize our first project and track everything with github.")
